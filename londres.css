@@ -1,0 +1,14 @@
+body{
+     
+    background-color: beige;
+}
+img{
+    width: 1440px;
+  }
+  video{
+width: 1440px;
+  }
+*{
+    margin: 0;
+    padding: 0;
+}

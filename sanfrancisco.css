@@ -1,0 +1,27 @@
+body{
+     
+    background-color: beige;
+}
+img{
+    width: 710px;
+    display: block;
+    float: left;
+    height: 800px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color:beige;
+    width: 710px;
+    font-size: x-large;
+    height: 390px;
+float: right;
+}
+video{
+    width: 710px;
+     display: block;
+     float: right;
+     height: 400px;
+}
